@@ -1,0 +1,21 @@
+2025-11-26 09:39:29,957 - twap - INFO - TWAP slice 1/10
+2025-11-26 09:39:29,957 - binance_client - INFO - HTTP GET /fapi/v1/exchangeInfo
+2025-11-26 09:39:30,708 - binance_client - INFO - HTTP response OK
+2025-11-26 09:39:30,709 - binance_client - INFO - Placing MARKET order
+2025-11-26 09:39:30,709 - binance_client - INFO - HTTP POST /fapi/v1/order
+2025-11-26 09:39:31,257 - binance_client - ERROR - API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
+2025-11-26 09:39:31,257 - main - ERROR - CLI command failed: API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
+2025-11-26 09:39:32,332 - twap - INFO - TWAP slice 1/10
+2025-11-26 09:39:32,332 - binance_client - INFO - HTTP GET /fapi/v1/exchangeInfo
+2025-11-26 09:39:33,070 - binance_client - INFO - HTTP response OK
+2025-11-26 09:39:33,073 - binance_client - INFO - Placing MARKET order
+2025-11-26 09:39:33,073 - binance_client - INFO - HTTP POST /fapi/v1/order
+2025-11-26 09:39:33,601 - binance_client - ERROR - API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
+2025-11-26 09:39:33,601 - main - ERROR - CLI command failed: API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
+2025-11-26 09:39:34,766 - twap - INFO - TWAP slice 1/10
+2025-11-26 09:39:34,767 - binance_client - INFO - HTTP GET /fapi/v1/exchangeInfo
+2025-11-26 09:39:35,569 - binance_client - INFO - HTTP response OK
+2025-11-26 09:39:35,572 - binance_client - INFO - Placing MARKET order
+2025-11-26 09:39:35,572 - binance_client - INFO - HTTP POST /fapi/v1/order
+2025-11-26 09:39:36,112 - binance_client - ERROR - API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
+2025-11-26 09:39:36,112 - main - ERROR - CLI command failed: API error 401: {'code': -2014, 'msg': 'API-key format invalid.'}
